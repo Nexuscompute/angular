@@ -342,7 +342,6 @@
 
 "@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#bd277985ac350efca14fba5609cac29e6ebd4420":
   version "0.0.0-5b35e20aeb147b713c31ba5c269cf2128c746d46"
-  uid bd277985ac350efca14fba5609cac29e6ebd4420
   resolved "https://github.com/angular/dev-infra-private-builds.git#bd277985ac350efca14fba5609cac29e6ebd4420"
   dependencies:
     "@actions/core" "^1.4.0"
@@ -9805,10 +9804,10 @@ karma-sourcemap-loader@^0.3.7:
   dependencies:
     graceful-fs "^4.1.2"
 
-karma@~6.3.0:
-  version "6.3.15"
-  resolved "https://registry.yarnpkg.com/karma/-/karma-6.3.15.tgz#6c3beedb2440b05589a502462140afed724481e7"
-  integrity sha512-4O5X6zVFdmwo/fgjRN84fPG3IvaiOxOjIeZBwBrQYz4nIyGqlF8Wm7C1Hr7idQ9NHgnvJM+LSjZwS1C+qALMGw==
+karma@~6.3.16:
+  version "6.3.16"
+  resolved "https://registry.yarnpkg.com/karma/-/karma-6.3.16.tgz#76d1a705fd1cf864ee5ed85270b572641e0958ef"
+  integrity sha512-nEU50jLvDe5yvXqkEJRf8IuvddUkOY2x5Xc4WXHz6dxINgGDrgD2uqQWeVrJs4hbfNaotn+HQ1LZJ4yOXrL7xQ==
   dependencies:
     body-parser "^1.19.0"
     braces "^3.0.2"
@@ -13544,7 +13543,6 @@ sass@1.49.7:
 
 "sauce-connect@https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz":
   version "0.0.0"
-  uid e5d7f82ad98251a653d1b0537f1103e49eda5e11
   resolved "https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz#e5d7f82ad98251a653d1b0537f1103e49eda5e11"
 
 saucelabs@7.1.3, saucelabs@^1.5.0, saucelabs@^4.6.3:
