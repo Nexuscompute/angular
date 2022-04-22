@@ -318,7 +318,6 @@
 
 "@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#3ff6a9e935cf0d1a8694e7f5842e5e538da64030":
   version "0.0.0-129a5ccbcc73d7ca960d8c166d7400bf2e94cd3d"
-  uid "3ff6a9e935cf0d1a8694e7f5842e5e538da64030"
   resolved "https://github.com/angular/dev-infra-private-builds.git#3ff6a9e935cf0d1a8694e7f5842e5e538da64030"
   dependencies:
     "@angular-devkit/build-angular" "14.0.0-next.6"
@@ -2774,10 +2773,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/systemjs@0.19.32":
-  version "0.19.32"
-  resolved "https://registry.yarnpkg.com/@types/systemjs/-/systemjs-0.19.32.tgz#e9204c4cdbc8e275d645c00e6150e68fc5615a24"
-  integrity sha1-6SBMTNvI4nXWRcAOYVDmj8VhWiQ=
+"@types/systemjs@0.20.8":
+  version "0.20.8"
+  resolved "https://registry.yarnpkg.com/@types/systemjs/-/systemjs-0.20.8.tgz#64d337071004392f1c66b0c4af177a06bf597d35"
+  integrity sha512-LO1LLPfKt5A/fqD4cxUHi1KCEQdwCgkHlT7zOIyFdWuwvZ2tDL8wUDbKY4YGOEsqifhzV6l5vE3aHJpYfwHZIg==
 
 "@types/through@*":
   version "0.0.30"
@@ -13734,7 +13733,6 @@ sass@1.49.9:
 
 "sauce-connect@https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz":
   version "0.0.0"
-  uid e5d7f82ad98251a653d1b0537f1103e49eda5e11
   resolved "https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz#e5d7f82ad98251a653d1b0537f1103e49eda5e11"
 
 saucelabs@7.1.3, saucelabs@^1.5.0, saucelabs@^4.6.3:
