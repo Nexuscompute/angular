@@ -318,7 +318,6 @@
 
 "@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#3ff6a9e935cf0d1a8694e7f5842e5e538da64030":
   version "0.0.0-129a5ccbcc73d7ca960d8c166d7400bf2e94cd3d"
-  uid "3ff6a9e935cf0d1a8694e7f5842e5e538da64030"
   resolved "https://github.com/angular/dev-infra-private-builds.git#3ff6a9e935cf0d1a8694e7f5842e5e538da64030"
   dependencies:
     "@angular-devkit/build-angular" "14.0.0-next.6"
@@ -2716,12 +2715,7 @@
   resolved "https://registry.yarnpkg.com/@types/retry/-/retry-0.12.1.tgz#d8f1c0d0dc23afad6dc16a9e993a0865774b4065"
   integrity sha512-xoDlM2S4ortawSWORYqsdU+2rxdh4LRW9ytc3zmT37RIKQh6IHyKwwtKhKis9ah8ol07DCkZxPt8BBvPjC6v4g==
 
-"@types/selenium-webdriver@3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.7.tgz#5d3613d1ab3ca08b74d19683a3a7c573129ab18f"
-  integrity sha512-tHdDdGUBKTbiLLwf5mF78EP35F31UZekG+GRNowl8G5rMQoupAT4qWn/7AaGOvmaqvROdqC3Io/hP1ZyO58QkA==
-
-"@types/selenium-webdriver@^3.0.0":
+"@types/selenium-webdriver@3.0.19", "@types/selenium-webdriver@^3.0.0":
   version "3.0.19"
   resolved "https://registry.yarnpkg.com/@types/selenium-webdriver/-/selenium-webdriver-3.0.19.tgz#28ecede76f15b13553b4e86074d4cf9a0bbe49c4"
   integrity sha512-OFUilxQg+rWL2FMxtmIgCkUDlJB6pskkpvmew7yeXfzzsOBb5rc+y2+DjHm+r3r1ZPPcJefK3DveNSYWGiy68g==
@@ -13734,7 +13728,6 @@ sass@1.49.9:
 
 "sauce-connect@https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz":
   version "0.0.0"
-  uid e5d7f82ad98251a653d1b0537f1103e49eda5e11
   resolved "https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz#e5d7f82ad98251a653d1b0537f1103e49eda5e11"
 
 saucelabs@7.1.3, saucelabs@^1.5.0, saucelabs@^4.6.3:
