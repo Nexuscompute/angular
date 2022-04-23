@@ -36,7 +36,7 @@
     "@angular/upgrade": "~13.3.0",
     "core-js": "^2.5.4",
     "rxjs": "~7.4.0",
-    "systemjs": "~0.19.39",
+    "systemjs": "~0.21.6",
     "systemjs-plugin-babel": "~0.0.25",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
