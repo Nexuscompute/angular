@@ -43,7 +43,7 @@
     "rxjs": "~7.4.0",
     "systemjs": "~0.19.39",
     "systemjs-plugin-babel": "~0.0.25",
-    "tslib": "^2.3.0",
+    "tslib": "^2.3.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
