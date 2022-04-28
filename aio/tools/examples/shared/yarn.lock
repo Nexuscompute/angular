@@ -2710,10 +2710,12 @@ ajv@^8.8.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-angular-in-memory-web-api@~0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.11.0.tgz#46e4ad896b36d669f36801fc8cafa7db8278d078"
-  integrity sha512-QV1qYHm+Zd+wrvlcPLnAcqqGpOmCN1EUj4rRuYHpek8+QqFFdxBNuPZOJCKvU7I97z5QSKHsdc6PNKlpUQr3UA==
+angular-in-memory-web-api@~0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.12.0.tgz#5f812778527cc11abd0b5f1576ee5cc7bc490e34"
+  integrity sha512-/Q/mlCps1YiUn2g5CZ/Orlzf3jCId0qLz62YdZc0ZdUDZ2+NrRAo344ATUzKBCjveUWKJbaaRITnz1HY71pvFg==
+  dependencies:
+    tslib "^2.1.0"
 
 angular-route@1.8.0:
   version "1.8.0"
@@ -10931,6 +10933,11 @@ tslib@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.1.tgz#410eb0d113e5b6356490eec749603725b021b43e"
   integrity sha512-SgIkNheinmEBgx1IUNirK0TUD4X9yjjBRTqqjggWCU3pUEqIk3/Uwl3yRixYKT6WjQuGiwDv4NomL3wqRCj+CQ==
+
+tslib@^2.1.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
+  integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
 tslib@^2.3.0:
   version "2.3.0"
