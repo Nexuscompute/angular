@@ -223,6 +223,18 @@
     rxjs "6.6.7"
     source-map "0.7.3"
 
+"@angular-devkit/core@13.3.2":
+  version "13.3.2"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-13.3.2.tgz#b2e7a9a6457d587a59d5f6df799bebb6930a5ddc"
+  integrity sha512-wav5plcnlxQAfZ+0EUt3dvVTJnJ1au2TlKVQ0jSQJdR1LA6N7QUI49N2Ua6ZnDMwruQaQkoynitMW2l1it3qYQ==
+  dependencies:
+    ajv "8.9.0"
+    ajv-formats "2.1.1"
+    fast-json-stable-stringify "2.1.0"
+    magic-string "0.25.7"
+    rxjs "6.6.7"
+    source-map "0.7.3"
+
 "@angular-devkit/core@14.0.0-next.6":
   version "14.0.0-next.6"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-14.0.0-next.6.tgz#e3956878ba3dfc2687b04ea4469968cd918bb5d9"
