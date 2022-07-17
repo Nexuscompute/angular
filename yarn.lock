@@ -5228,10 +5228,10 @@ copy-webpack-plugin@10.2.4:
     schema-utils "^4.0.0"
     serialize-javascript "^6.0.0"
 
-core-js-bundle@^3.10.2:
-  version "3.22.0"
-  resolved "https://registry.yarnpkg.com/core-js-bundle/-/core-js-bundle-3.22.0.tgz#36b6b65d15c9f5bf000572823cd87d371094f42c"
-  integrity sha512-IzahnAjA5H2lSdw7xIiUGScTU0R7wulkxDQ4YxmvsmHSo0L2zw+DGqNcyIBRcWArORbr9BOAsgI13BimRFhwRg==
+core-js-bundle@^3.23.3:
+  version "3.23.4"
+  resolved "https://registry.yarnpkg.com/core-js-bundle/-/core-js-bundle-3.23.4.tgz#fb4ea6b4d5a0ba3166da1c8936bc18b9328a292b"
+  integrity sha512-E5kP515mQPnHj0LL0Z4UyQ8VHrhugJaq3GOropUnR/fU3QA3Xxs3vRgt6CwNDpgHYiruDa0jqHwNHwk5FbcwFg==
 
 core-js-compat@^3.20.2, core-js-compat@^3.21.0:
   version "3.22.0"
