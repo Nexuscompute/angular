@@ -9605,8 +9605,6 @@ rxjs@6.6.7:
   version "6.6.7"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.6.7.tgz#90ac018acabf491bf65044235d5863c4dab804c9"
   integrity sha512-hTdwr+7yYNIT5n4AMYp85KA6yw2Va0FLa3Rguvbpa4W3I5xynaBZo41cM3XM+4Q6fRMj3sBYIR1VAmZMXYJvRQ==
-  dependencies:
-    tslib "^1.9.0"
 
 rxjs@^5.5.6:
   version "5.5.12"
@@ -10602,12 +10600,10 @@ systemjs-plugin-babel@~0.0.25:
   resolved "https://registry.yarnpkg.com/systemjs-plugin-babel/-/systemjs-plugin-babel-0.0.25.tgz#93bc92a58e3e9c5d1505c972c3eede570b770c65"
   integrity sha512-RMKSizWWlw4+IpDB385ugxn7Owd9W+HEtjYDQ6yO1FpsnER/vk6FbXRweUF+mvRi6EHgk8vDdUdtui7ReDwX3w==
 
-systemjs@~0.19.39:
-  version "0.19.47"
-  resolved "https://registry.yarnpkg.com/systemjs/-/systemjs-0.19.47.tgz#c8c93937180f3f5481c769cd2720763fb4a31c6f"
-  integrity sha1-yMk5NxgPP1SBx2nNJyB2P7SjHG8=
-  dependencies:
-    when "^3.7.5"
+systemjs@~0.21.6:
+  version "0.21.6"
+  resolved "https://registry.yarnpkg.com/systemjs/-/systemjs-0.21.6.tgz#9d15e79d9f60abbac23f0d179f887ec01f260a1b"
+  integrity sha512-R+5S9eV9vcQgWOoS4D87joZ4xkFJHb19ZsyKY07D1+VBDE9bwYcU+KXE0r5XlDA8mFoJGyuWDbfrNoh90JsA8g==
 
 tapable@^2.1.1, tapable@^2.2.0:
   version "2.2.0"
@@ -11452,10 +11448,6 @@ whatwg-url@^8.0.0:
     lodash.sortby "^4.7.0"
     tr46 "^2.0.0"
     webidl-conversions "^5.0.0"
-
-when@^3.7.5:
-  version "3.7.8"
-  resolved "https://registry.yarnpkg.com/when/-/when-3.7.8.tgz#c7130b6a7ea04693e842cdc9e7a1f2aa39a39f82"
 
 which-module@^1.0.0:
   version "1.0.0"
