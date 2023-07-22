@@ -2710,10 +2710,12 @@ ajv@^8.8.0:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
-angular-in-memory-web-api@~0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.11.0.tgz#46e4ad896b36d669f36801fc8cafa7db8278d078"
-  integrity sha512-QV1qYHm+Zd+wrvlcPLnAcqqGpOmCN1EUj4rRuYHpek8+QqFFdxBNuPZOJCKvU7I97z5QSKHsdc6PNKlpUQr3UA==
+angular-in-memory-web-api@~0.16.0:
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.16.0.tgz#04e380798a4c96682e7fa9de6f9a1d5254e6ad19"
+  integrity sha512-+1HAyB35V0VrCSbQHBdDi5V9M/9x3SXfOyh3pyL2Hg+ZmVBqosETElxRagRY3QsXCAb3YvxYiJaBSSmFlkxOMQ==
+  dependencies:
+    tslib "^2.3.0"
 
 angular-route@1.8.0:
   version "1.8.0"
